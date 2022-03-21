@@ -10,5 +10,8 @@
 - To install all packages from the requirement.txt use ```pip install -r requirements.txt``` (be sure to be in the directory with the file, when You run this)
 
 ## Author
-
+asdfasdf
 Julian
+Veränderung
+  git config --global user.email "jannik.auer@gmx.at"
+  git config --global user.name "Jannik245"
